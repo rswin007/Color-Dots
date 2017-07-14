@@ -1,3 +1,39 @@
 body{
-    background-color:blue;
+    background-image:url("http://66.media.tumblr.com/949d73acb794daaa58567661acdc52dd/tumblr_nntp76b1Vo1uo5tbio1_1280.png");
+    background-size:100% 100%;
+    height:100vh;
+
+    display:flex;
+    flex-flow: row wrap;
+    align-items:center;
+    justify-content: space-around;
+
+
+}
+
+div{
+    border-radius:100%;
+    height:150px;
+    width:150px;
+
+    background:lightblue;
+    border:2px solid red;
+
+}
+
+div#one{
+    background:rgba(70, 187, 91, 1);;
+    border: 2px solid hotpink;
+}
+
+div#two{
+    background:pink;
+    border: 2px solid hotpink;
+
+}
+
+div#three{
+     background:purple;
+     border:2px solid hotpink;
+
 }
