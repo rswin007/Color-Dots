@@ -1,12 +1,12 @@
 body{
-    background-image:url("http://66.media.tumblr.com/949d73acb794daaa58567661acdc52dd/tumblr_nntp76b1Vo1uo5tbio1_1280.png");
+    background:url("http://66.media.tumblr.com/949d73acb794daaa58567661acdc52dd/tumblr_nntp76b1Vo1uo5tbio1_1280.png");
     background-size:100% 100%;
     height:100vh;
 
     display:flex;
     flex-flow: row wrap;
-    align-items:center;
-    justify-content: space-around;
+ align-items:center;
+ justify-content: space-around;
 
 
 }
@@ -22,7 +22,7 @@ div{
 }
 
 div#one{
-    background:rgba(70, 187, 91, 1);;
+    background:rgba(70, 187, 91, 1);
     border: 2px solid hotpink;
 }
 
