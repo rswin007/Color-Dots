@@ -1,5 +1,4 @@
 body{
-    background:url("http://66.media.tumblr.com/949d73acb794daaa58567661acdc52dd/tumblr_nntp76b1Vo1uo5tbio1_1280.png");
     background-size:100% 100%;
     height:100vh;
 
@@ -21,19 +20,17 @@ div{
 
 }
 
-div#one{
-    background:rgba(70, 187, 91, 1);
-    border: 2px solid hotpink;
-}
+#rachel{
+    position:absolute;
+    border-radius: 100%;
+    color:blue;
+    display:flex;
+    justify-content:center;
+    align-items:center;
 
-div#two{
-    background:pink;
-    border: 2px solid hotpink;
 
-}
 
-div#three{
-     background:purple;
-     border:2px solid hotpink;
 
 }
+
+
